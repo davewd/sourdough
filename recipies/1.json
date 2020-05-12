@@ -1,0 +1,33 @@
+{
+  "dough_type": "bread",
+  "hydration": "",
+  "starter_ml": 150,
+  "most_recent_feed": "24h",
+  "recipe_steps": [
+    {
+      "step": 0,
+      "stage": "autolyze",
+      "autolyze_minutes": "40"
+    },
+    {
+      "step": 1,
+      "stage": "autolyze",
+      "autolyze_minutes": "40"
+    },
+    {
+      "step": 2,
+      "stage": "autolyze",
+      "autolyze_minutes": "40"
+    },
+    {
+      "step": 3,
+      "stage": "",
+      "autolyze_minutes": "40"
+    },
+    {
+      "step": 4,
+      "stage": "",
+      "autolyze_minutes": "40"
+    }
+  ]
+}
